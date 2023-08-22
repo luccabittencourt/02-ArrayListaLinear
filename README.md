@@ -1,3 +1,7 @@
+Lucca Freixo Bittencourt
+lucca.bittencourt@fatec.sp.gov.br
+
+
 # Lista Linear
 
 Faça um fork deste repositorio e implemente a função buscarElemento
@@ -7,5 +11,4 @@ Faça um fork deste repositorio e implemente a função buscarElemento
 * Busca o numero na lista
 * Se encontrado exibe a posição do numero na lista
 * Se não econtrado exibe "elemento não encontrado" 
-
 
